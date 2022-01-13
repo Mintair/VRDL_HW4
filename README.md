@@ -11,3 +11,6 @@ python main_test_swinir.py --task classical_sr --scale 3 --training_patch_size 4
 
 ### Model weights:
 https://drive.google.com/file/d/1Y_PN1QgOrRYhjWpnzdlZ2bAu1HUAe6k8/view?usp=sharing
+
+## Experimental Results
+![image](https://github.com/Mintair/VRDL_HW4/results/00_pred.png)
