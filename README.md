@@ -10,6 +10,4 @@ python main_test_swinir.py --task classical_sr --scale 3 --training_patch_size 4
 ```
 
 ### Model weights:
-https://drive.google.com/file/d/1xqyJUcDy9HLffHRD3gFUiFhuLFGRX05a/view?usp=sharing
-
-## Experimental Results
+https://drive.google.com/file/d/1Y_PN1QgOrRYhjWpnzdlZ2bAu1HUAe6k8/view?usp=sharing
