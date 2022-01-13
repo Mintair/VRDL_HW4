@@ -13,4 +13,4 @@ python main_test_swinir.py --task classical_sr --scale 3 --training_patch_size 4
 https://drive.google.com/file/d/1Y_PN1QgOrRYhjWpnzdlZ2bAu1HUAe6k8/view?usp=sharing
 
 ## Experimental Results
-![image](https://github.com/Mintair/VRDL_HW4/blob/main/results/00_pred.png)
+![image](https://github.com/Mintair/VRDL_HW4/blob/main/results/11_pred.png)
